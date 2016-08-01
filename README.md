@@ -16,4 +16,9 @@ This video gives an overview of object models and how to make our classes more p
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/vENMFapLonA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+## Resources
+
+[Additional Video on Object Models](https://www.youtube.com/watch?v=vXz6ExSdm94)
+- This video also covers many of the above topics in the main lesson video. Feel free to use this as another refresher on object models. 
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-video-review-object-models'>OO Ruby Video Review: Object Models</a> on Learn.co and start learning to code for free.</p>
